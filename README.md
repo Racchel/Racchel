@@ -2,9 +2,7 @@
 # Oiii gente! Eu sou a Racchel Velasco!💜
 
 <!-- imagem -->
-<div align="center">
-  <img align="left" alt="Racchel-pic" height="150em" style="border-radius:50px;" src="./assets/drawing.png">
-</div>  
+<img align="left" alt="Racchel-pic" height="150em" style="border-radius:50px;" src="./assets/drawing.png">
 
 <!-- gráficos -->
 <div align="right">
@@ -24,6 +22,7 @@
   - Criação de páginas web responsivas com HTML, CSS e ReactJS
   - Criação de API REST com NodeJS
   - Testes Unitários com Jest
+  - Banco de dados
   - e outras coisinhas...
 </div>
   
