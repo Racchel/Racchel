@@ -3,20 +3,18 @@
 
 <!-- imagem -->
 <div align="center">
-  <img align="left" alt="Racchel-pic" height="180em" style="border-radius:50px;" src="./assets/drawing.png">
+  <img align="left" alt="Racchel-pic" height="150em" style="border-radius:50px;" src="./assets/drawing.png">
 </div>  
 
 <!-- gráficos -->
 <div align="right">
   <a href="https://github.com/Racchel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Racchel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racchel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Racchel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Racchel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!-- linha decorativa -->
 <div style="display: inline_block"><br>
-  <img alt="Racchel-Js" height="40" src="https://svgsilh.com/svg/47700.svg">
-  <img alt="Racchel-Js" height="40" src="https://svgsilh.com/svg/47700.svg">
   <img alt="Racchel-Js" height="40" src="https://svgsilh.com/svg/47700.svg">
   <img alt="Racchel-Js" height="40" src="https://svgsilh.com/svg/47700.svg">
   <img alt="Racchel-Js" height="40" src="https://svgsilh.com/svg/47700.svg">
